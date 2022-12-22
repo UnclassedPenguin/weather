@@ -1,4 +1,4 @@
-# Bales
+# Weather
 #### A program for keeping track of weather.
 
 # Install
@@ -11,7 +11,7 @@ $ go install github.com/unclassedpenguin/weather@latest
 
 Then, you need to create the config file at `~/.config/weather/config.yaml`
 
-### Example ~/.config/bales/config.yaml
+### Example ~/.config/weather/config.yaml
 
 ```yaml
 # Database dir is the directory you want to store your databases in.
